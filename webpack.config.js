@@ -20,6 +20,7 @@ files.forEach((item) => {
   entry[item + '/index'] = ['./src/' + item + '/index.js'];
 });
 
+console.log(entry)
 
 var config = {
   context: cwd,
