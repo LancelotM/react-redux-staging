@@ -27,17 +27,9 @@
 ## 开发环境依赖
 
 - `nodejs`: ~4.4.0
-- `fie`: ~2.0.0
+- `fie`: ~2.0.0(https://github.com/fieteam/fie)
 
 ## 本地开发
-
-### hosts 绑定
-
-```
-127.0.0.1 example.taobao.com
-127.0.0.1 api.example.taobao.com
-```
-
 ### 开发调试
 
 ```
